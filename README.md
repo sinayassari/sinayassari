@@ -1,6 +1,6 @@
 # Hi there, I'm Sina Yassari! 👋
 
-![Sina Yassari Hero Banner](./assets/hero.svg)
+![Sina Yassari Hero Banner](./hero.svg)
 
 ## 🚀 About Me
 
