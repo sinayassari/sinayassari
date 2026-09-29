@@ -6,7 +6,6 @@ Hi there, I'm Sina Yassari 👋
 
 I'm a Senior Software Engineer with 10+ years of full-stack experience across **Angular, NestJS, C# and .NET Core**, and a growing focus on **AI/ML engineering**. I build secure, scalable REST APIs and microservices, design micro-frontend architectures, and care a lot about clean code, code review culture and cross-team collaboration.
 
-📍 Based in Copenhagen
 🌍 Open to full-time Software Engineer / AI/ML Engineer roles in the EU (relocation and visa sponsorship)
 
 ---
