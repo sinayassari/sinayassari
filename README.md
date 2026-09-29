@@ -80,7 +80,7 @@
 | 🔐 Security | OAuth 2.0/JWT server (NestJS + Docker + Redis) across **10+ apps** |
 | ✅ Quality | **-30%** production hotfixes through code review policies and CI/CD checks |
 | 🚀 Efficiency | **-30%** development time with reusable TypeScript/Angular components across 4 projects |
-| 📦 Platform | **60+** internal Angular and .NET Core libraries and apps maintained in an NX monorepo |
+| 📦 Platform | **60+** internal Angular libraries and apps maintained in an NX monorepo |
 
 ---
 
