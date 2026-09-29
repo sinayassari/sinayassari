@@ -56,7 +56,7 @@ Currently deepening my machine learning and deep learning skills with hands-on n
 - **Security:** Built a centralized **OAuth 2.0 / JWT authentication server in NestJS**, containerised with Docker and integrated across **10+ internal applications**, with asymmetric key signing and real-time token revocation via Redis.
 - **Quality:** Reduced production hotfixes by **30%** by introducing standardised code review policies and automated CI/CD checks.
 - **Efficiency:** Cut development time by **30%** with reusable TypeScript/Angular components shared across 4 projects.
-- **Platform:** Published and maintained **60+ internal Angular and .NET Core libraries and apps** in an NX monorepo, enabling multiple product teams to extend functionality independently.
+- **Platform:** Published and maintained **60+ internal Angular modules** in an NX monorepo, enabling multiple product teams to extend functionality independently.
 - **Backend:** Engineered .NET Core services, REST APIs and SQL Server stored procedures powering golf booking, point-of-sale, retail, events, food & beverage and kitchen display systems.
 - **Mentoring:** Supported colleagues through pair programming, database troubleshooting and solution reviews.
 
