@@ -1,63 +1,86 @@
-<h1 align="center">Hi, I'm Sina Yassari 👋</h1>
+# Hi there, I'm Sina Yassari! 👋
 
-<p align="center">
-  <b>Senior Software Engineer · Full-Stack (Angular, NestJS, .NET Core) · AI/ML Engineer</b><br/>
-  Building secure, scalable web platforms, and applying machine learning to real products.
-</p>
+![Sina Yassari Hero Banner](./assets/hero.svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sinayassari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sina.yassari@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/sinayassari?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-</p>
+## 🚀 About Me
 
-<p align="center">
-  🌍 <b>Open to full-time Software Engineer / AI/ML Engineer roles in the EU (relocation welcome)</b>
-</p>
+I'm **Sina Yassari**, a **Senior Software Engineer** with **10+ years** of full-stack experience and a growing focus on **AI/ML**. I build secure, scalable web platforms with **Angular, NestJS, C# and .NET Core**, and I care about architecture that lets several teams ship independently: monorepos, micro-frontends and well-designed APIs.
+
+At **Total e Integrated** I maintained a monorepo with ~60 internal libraries and apps, and powered golf booking, point-of-sale, retail, events, food & beverage and kitchen-display systems with .NET Core services and SQL Server. Earlier, I built a centralised **OAuth 2.0 / JWT authentication server in NestJS** used across 10+ applications. Alongside that, I'm building up my **machine learning** skills with PyTorch, Scikit-Learn, Pandas and NumPy.
+
+> 💡 *"Good architecture is what lets a team move fast without breaking things."*
+
+- 🌐 **Web:** Angular micro-frontends, NestJS and .NET Core APIs, SQL Server
+- 🔐 **Security:** OAuth 2.0, JWT (asymmetric signing), Redis token revocation, RBAC
+- 🤖 **AI & ML:** PyTorch, Scikit-Learn, Pandas, NumPy
+- 🎓 **Education:** Master's in Information Technology (IAUCTB, 2018)
+- 🌍 **Looking for:** full-time Software Engineer / AI/ML Engineer roles in the EU (relocation welcome)
+- 💬 **Ask me about:** Angular architecture, auth design, .NET Core backends, or getting started with ML
+- ✉️ **Contact:** [sina.yassari@gmail.com](mailto:sina.yassari@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sinayassari](https://www.linkedin.com/in/sinayassari)
 
 ---
 
-## About
+## 🛠️ Technical Skills
 
-I'm a **senior full-stack engineer with 10+ years** of experience building web platforms across **Angular, NestJS, C# and .NET Core**. I like clean architecture, secure-by-design APIs, and developer experience that lets several teams ship independently.
+### 💻 Languages
 
-- 🏗️ Designed and maintained a **monorepo + micro-frontend architecture** with ~60 internal libraries, packages and apps
-- 🔐 Built a centralised **OAuth 2.0 / JWT authentication server (NestJS)** used across 10+ internal applications, with asymmetric key signing and real-time token revocation via Redis
-- ⚡ Cut application load times by **15%** by redesigning an Angular micro-frontend into modular, independently deployable pieces
-- 🧪 Reduced production hotfixes by **30%** through code-review policies and automated CI/CD checks
-- 🤖 Currently deepening my **AI/ML** skills with PyTorch, Scikit-Learn, Pandas and NumPy
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
-## Tech stack
+### 🖥️ Frontend
 
-| Area | Tools |
-|---|---|
-| **Frontend** | Angular, TypeScript, JavaScript, React, Redux, HTML5, CSS3 |
-| **Backend** | C#, .NET Core, NestJS (Node.js), REST APIs, Microservices |
-| **Architecture** | Micro-Frontends, NX Monorepo, Design Patterns, RBAC |
-| **Security** | OAuth 2.0, JWT, Redis, Authentication & Authorization design |
-| **Data** | SQL Server, Stored Procedures, Database design & optimisation |
-| **DevOps** | Docker, GitLab CI/CD, Kubernetes basics, Agile/Scrum, Code review |
-| **AI / ML** | PyTorch, Scikit-Learn, Pandas, NumPy |
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
+### ⚙️ Backend & API
 
-## Experience
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0D9488?style=flat-square&logo=docker&logoColor=white)
+
+### 🔐 Security
+
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-6E40C9?style=flat-square&logo=letsencrypt&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### ☁️ DevOps & Practices
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 💼 Experience
 
 | Role | Company | Period |
 |---|---|---|
@@ -68,36 +91,48 @@ I'm a **senior full-stack engineer with 10+ years** of experience building web p
 | Software Engineer | Safarzon.com | Jan 2016 – Jan 2017 |
 | Freelance Software Engineer | Self-employed | Jan 2011 – Dec 2015 |
 
-## Featured work
+### 🏆 Highlights
 
-**🏢 Platform engineering at Total e Integrated**
-Engineered .NET Core services, REST APIs and SQL Server stored procedures behind golf booking, point-of-sale, retail, events, food & beverage and kitchen-display systems, alongside an Angular micro-frontend platform that let product teams extend functionality independently.
+- ⚡ **-15% load time** by redesigning an Angular micro-frontend into modular, independently deployable pieces
+- 🛡️ **-30% production hotfixes** with code-review policies and automated CI/CD checks
+- 🔐 **Central auth for 10+ apps** with a NestJS OAuth 2.0 / JWT server, Redis token revocation and asymmetric signing
+- 📦 **~60 internal libraries** published and maintained so product teams could extend functionality on their own
 
-**🔐 Centralised auth service at NICICO**
-A NestJS OAuth 2.0 / JWT authentication microservice, containerised with Docker, with asymmetric key signing, Redis-backed token revocation and Angular access/refresh-token flows with role-based access control. It eliminated session-hijacking vulnerabilities across 10+ internal apps.
+---
 
-## Open source & side projects
+## 📂 Featured Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
 | [**Machine-Learning**](https://github.com/sinayassari/Machine-Learning) | Introduction to machine learning | Jupyter Notebook |
 | [**ai-ml-dl-intro**](https://github.com/sinayassari/ai-ml-dl-intro) | Intro ML / deep learning project | Jupyter Notebook |
 | [**simple-voting-app-k8s**](https://github.com/sinayassari/simple-voting-app-k8s) | Voting app deployed on Kubernetes | Kubernetes, Docker |
 | [**react-webworker-countdown**](https://github.com/sinayassari/react-webworker-countdown) | Using Web Workers in React | JavaScript, React |
-| [**ng-perfect-dialog**](https://github.com/sinayassari/ng-perfect-dialog) | Angular dialog component | Angular, HTML |
+| [**ng-perfect-dialog**](https://github.com/sinayassari/ng-perfect-dialog) | Angular dialog component | Angular |
 | [**react-carousel**](https://github.com/sinayassari/react-carousel) | Simple React carousel | React |
 
-## Working style
+---
 
-- Turn business requirements into maintainable, scalable backend and frontend solutions
-- Mentor through pair programming, solution reviews and knowledge sharing
-- Work with Product Owners to break requirements into clear user stories and tasks
-- Care about code review, documentation and reusable components
+## 📈 GitHub Stats & Metrics
 
-## Let's connect
+![Sina's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinayassari&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a371f7&area_color=111a2e&area=true&hide_border=true&radius=12)
 
-I'm looking for a **full-time Software Engineer / AI/ML Engineer** role in the EU. If you're hiring or want to talk about Angular, NestJS, .NET or applied ML, reach out via [LinkedIn](https://www.linkedin.com/in/sinayassari) or [email](mailto:sina.yassari@gmail.com).
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinayassari&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinayassari&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinayassari&color=0f6e5b&style=flat-square&label=Profile+views" alt="Profile views"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sinayassari&theme=tokyonight&hide_border=true)](https://github.com/sinayassari)
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for a **full-time Software Engineer / AI/ML Engineer** role in the EU. If you're hiring, or want to talk about Angular, NestJS, .NET or applied ML, get in touch.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinayassari)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sina.yassari@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=sinayassari&color=58a6ff&style=flat-square&label=Profile+views)
+
+---
+
+⭐ **If you like this profile, feel free to leave a star!** ⭐
