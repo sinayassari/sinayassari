@@ -93,12 +93,15 @@ I'm a **Senior Software Engineer** with **10+ years** of full-stack experience. 
 ---
 
 ## 💼 Career Timeline
-2021 ─ 2026 ▸ Total e Integrated Senior Software Engineer
-2020 ─ 2021 ▸ cube10.io Senior Software Engineer
-2019 ─ 2020 ▸ Kara e-Health Senior Software Engineer
-2017 ─ 2019 ▸ NICICO Senior Software Engineer
-2016 ─ 2017 ▸ Safarzon.com Software Engineer
-2011 ─ 2015 ▸ Freelance Software Engineer
+
+| Period | Company | Role | Focus |
+|:---|:---|:---|:---|
+| `2021 – 2026` | **Total e Integrated** | Senior Software Engineer | Monorepo · Micro-frontends · POS / Retail / F&B |
+| `2020 – 2021` | **cube10.io** | Senior Software Engineer | Full-stack product engineering |
+| `2019 – 2020` | **Kara e-Health** | Senior Software Engineer | Healthcare platforms · Secure APIs |
+| `2017 – 2019` | **NICICO** | Senior Software Engineer | Enterprise systems · .NET Core |
+| `2016 – 2017` | **Safarzon.com** | Software Engineer | Travel & booking platform |
+| `2011 – 2015` | **Freelance** | Software Engineer | Web apps · Client projects |
 
 <details>
 <summary>🔍 <b>Highlights & wins</b></summary>
