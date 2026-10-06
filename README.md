@@ -112,4 +112,222 @@ I enjoy turning complex business requirements into reliable production systems �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?st)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+---
+
+# 🏆 Engineering Impact
+
+### ⚡ 15% Faster Applications
+
+Redesigned an Angular micro-frontend architecture into a more modular TypeScript-based architecture with independent deployment pipelines.
+
+### 🔐 10+ Applications Secured
+
+Designed and implemented a centralized **OAuth 2.0 / JWT authentication platform** using NestJS, Docker and Redis.
+
+### ✅ 30% Fewer Production Hotfixes
+
+Introduced standardized code-review practices and automated CI/CD quality checks.
+
+### 🚀 30% Less Development Time
+
+Built reusable TypeScript and Angular components that could be shared across multiple projects.
+
+### 📦 60+ Internal Libraries & Applications
+
+Maintained an NX monorepo containing reusable Angular and .NET Core libraries, packages and applications.
+
+---
+
+# 🤖 AI / ML Journey
+
+I'm actively expanding my software engineering background into **AI and Machine Learning**.
+
+Current focus:
+
+```text
+Machine Learning
+      │
+      ├── Python
+      ├── NumPy
+      ├── Pandas
+      └── scikit-learn
+              │
+              ▼
+        Deep Learning
+              │
+              └── PyTorch
+```
+
+My goal is not simply to train models.
+
+I’m interested in building **production-grade AI systems** where machine learning is combined with:
+
+* scalable APIs
+* microservices
+* secure authentication
+* distributed systems
+* data pipelines
+* cloud infrastructure
+* observability
+* reliable software architecture
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 Machine Learning
+
+Introduction to Machine Learning using Python and Jupyter Notebook.
+
+**Focus:** Machine Learning · Python · Data Analysis
+
+### 🧠 AI / ML / Deep Learning
+
+Exploring fundamental concepts across machine learning and deep learning.
+
+**Focus:** AI · ML · DL · Python · Jupyter
+
+### ☸️ Kubernetes Voting Application
+
+A containerized application demonstrating deployment and orchestration with Kubernetes.
+
+**Focus:** Kubernetes · Containers · Cloud-Native Architecture
+
+### ⚛️ React Web Worker Countdown
+
+Demonstration of using **Web Workers** to perform background processing in React applications.
+
+**Focus:** React · JavaScript · Web Workers
+
+### 🧩 Angular Perfect Dialog
+
+Reusable Angular dialog component.
+
+**Focus:** Angular · Reusable Components · TypeScript
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<a href="https://github.com/sinayassari">
+<img src="https://github-readme-stats.vercel.app/api?username=sinayassari&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/sinayassari">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinayassari&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Focus
+
+```text
+┌──────────────────────────────────────────────────┐
+│                  2026 ROADMAP                    │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  🤖 AI Engineering                               │
+│  🧠 Machine Learning & Deep Learning             │
+│  🏗️ Distributed Systems                          │
+│  ☁️ Cloud-Native Architecture                   │
+│  🔐 Secure Software Architecture                │
+│  ⚙️ .NET + NestJS Microservices                 │
+│  🧩 Modern Frontend Architecture                │
+│  🚀 Production-Ready AI Applications            │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Build software that is simple enough to understand, scalable enough to grow, and secure enough to trust.**
+
+I believe good engineering is not just about writing code.
+
+It's about understanding the problem, designing the right architecture, making thoughtful trade-offs, and building systems that other engineers can maintain and extend.
+
+---
+
+# 💼 Professional Experience
+
+**Senior Software Engineer — Total e Integrated**
+`Jul 2021 – Jul 2026`
+
+**Senior Software Engineer — cube10.io**
+`Nov 2020 – Jul 2021`
+
+**Senior Software Engineer — Kara e-Health**
+`Sep 2019 – Oct 2020`
+
+**Senior Software Engineer — National Iranian Copper Industries Co.**
+`Mar 2017 – Aug 2019`
+
+**Software Engineer — Safarzon.com**
+`Jan 2016 – Jan 2017`
+
+**Freelance Software Engineer**
+`Jan 2011 – Dec 2015`
+
+---
+
+# 🎓 Education
+
+**Master's Degree in Information Technology**
+
+IAUCTB · 2018
+
+---
+
+# 🌍 Open to Opportunities
+
+I'm currently interested in:
+
+* **Senior Software Engineer**
+* **Backend Engineer**
+* **Full-Stack Engineer**
+* **Software Architect**
+* **AI/ML Engineer**
+* **AI Software Engineer**
+
+🌍 Open to relocation within the **EU**
+
+🤝 Interested in challenging engineering problems, AI-powered products, distributed systems, and high-quality software development.
+
+---
+
+# 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sina-yassari/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sinayassari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sina.yassari@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building the bridge between Software Engineering and AI
+
+**C# · .NET · Angular · NestJS · TypeScript · Microservices · AI/ML**
+
+</p>
