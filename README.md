@@ -1,138 +1,115 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Sina%20Yassari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Angular%20%C2%B7%20NestJS%20%C2%B7%20.NET%20Core%20%C2%B7%20AI%2FML&descAlignY=56&descSize=16" width="100%" />
-</p>
+# 👋 Hi, I'm Sina Yassari
 
-<p align="center">
-  <a href="https://linkedin.com/in/sinayassari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sina.yassari@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sinayassari&label=Profile%20Views&color=6e40c9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sinayassari?label=Followers&style=for-the-badge&color=6e40c9" />
-</p>
+### Senior Software Engineer · AI/ML Engineer · Full-Stack Architect
 
-<p align="center">
-  <a href="https://github.com/sinayassari">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6E40C9&center=true&vCenter=true&width=560&lines=10%2B+years+of+full-stack+engineering;Angular+%7C+NestJS+%7C+.NET+Core;Monorepos+%C2%B7+Micro-frontends+%C2%B7+Secure+APIs;Now+exploring+AI+%2F+Machine+Learning" alt="Typing SVG" />
-  </a>
-</p>
+I’m a **Senior Software Engineer with 10+ years of experience** building scalable, secure, and maintainable software across **.NET, Angular, NestJS, TypeScript, microservices, and cloud-native architectures**.
+
+Currently, I'm expanding my focus into **AI/ML engineering**, combining strong software architecture and backend engineering experience with **PyTorch, scikit-learn, Pandas, and NumPy**.
+
+I enjoy turning complex business requirements into reliable production systems — from APIs and distributed services to reusable frontend platforms and AI-powered solutions.
 
 ---
 
-## 🌌 About Me
+## 🚀 What I Build
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinayassari&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     SOFTWARE ENGINEERING                    │
+├─────────────────────────────────────────────────────────────┤
+│  .NET / C#       NestJS / Node.js       Angular / React     │
+│  REST APIs       Microservices          Micro-Frontends     │
+│  SQL Server      Redis                  Docker              │
+│  CI/CD           NX Monorepo            Kubernetes          │
+└─────────────────────────────────────────────────────────────┘
 
-I'm a **Senior Software Engineer** with **10+ years** of full-stack experience. I build secure, scalable platforms with **Angular**, **NestJS** and **.NET Core** — and I'm currently levelling up in **AI/ML** with PyTorch.
-
-- 🏗️ I architect systems that let **multiple teams ship independently**
-- 🔐 I've built a central **OAuth 2.0 / JWT auth server** used across 10+ apps
-- 📦 I've maintained **~60 internal libraries & apps** in a single monorepo
-- 🤖 I'm deep in **PyTorch, Scikit-Learn, Pandas & NumPy** on the side
-- 🌍 I'm looking for a **full-time Engineer role in the EU** — relocation ready
-
-<br clear="right" />
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,python,angular,react,nestjs,dotnet,graphql,postgres,redis,docker,kubernetes,pytorch,sklearn&perline=8&theme=dark" />
-</p>
-
----
-
-## 🏆 Trophy Rack
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sinayassari&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
+┌─────────────────────────────────────────────────────────────┐
+│                         AI / ML                             │
+├─────────────────────────────────────────────────────────────┤
+│  Python          PyTorch                scikit-learn        │
+│  Pandas          NumPy                  Deep Learning       │
+│  Machine Learning                                      │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Engineering Focus
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinayassari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sinayassari&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinayassari&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sinayassari/sinayassari/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+* 🏗️ **Software Architecture & System Design**
+* ⚙️ **.NET / C# Backend Engineering**
+* 🧩 **Microservices & Distributed Systems**
+* 🎨 **Angular & Micro-Frontend Architecture**
+* 🚀 **NestJS & TypeScript**
+* 🔐 **OAuth 2.0 · JWT · RBAC · Application Security**
+* 🗄️ **SQL Server & Database Optimization**
+* ⚡ **Redis & High-Performance Applications**
+* 📦 **NX Monorepos & Reusable Libraries**
+* 🐳 **Docker & CI/CD**
+* ☸️ **Kubernetes**
+* 🤖 **Machine Learning & Deep Learning**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technology Stack
 
-<p align="center">
-  <a href="https://github.com/sinayassari/Machine-Learning">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sinayassari&repo=Machine-Learning&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sinayassari/ai-ml-dl-intro">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sinayassari&repo=ai-ml-dl-intro&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### Backend
 
-<p align="center">
-  <a href="https://github.com/sinayassari/simple-voting-app-k8s">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sinayassari&repo=simple-voting-app-k8s&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sinayassari/ng-perfect-dialog">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sinayassari&repo=ng-perfect-dialog&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
----
+### Frontend
 
-## 💼 Career Timeline
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-| Period | Company | Role | Focus |
-|:---|:---|:---|:---|
-| `2021 – 2026` | **Total e Integrated** | Senior Software Engineer | Monorepo · Micro-frontends · POS / Retail / F&B |
-| `2020 – 2021` | **cube10.io** | Senior Software Engineer | Full-stack product engineering |
-| `2019 – 2020` | **Kara e-Health** | Senior Software Engineer | Healthcare platforms · Secure APIs |
-| `2017 – 2019` | **NICICO** | Senior Software Engineer | Enterprise systems · .NET Core |
-| `2016 – 2017` | **Safarzon.com** | Software Engineer | Travel & booking platform |
-| `2011 – 2015` | **Freelance** | Software Engineer | Web apps · Client projects |
+### Architecture & APIs
 
-<details>
-<summary>🔍 <b>Highlights & wins</b></summary>
+* REST APIs
+* Microservices
+* Micro-Frontends
+* NX Monorepo
+* Software Architecture
+* Design Patterns
+* Domain-driven design principles
+* Authentication & Authorization
+* OAuth 2.0
+* JWT
+* RBAC
 
-<br />
+### Data
 
-- ⚡ **-15% load time** by redesigning an Angular micro-frontend into modular, independently deployable pieces
-- 🛡️ **-30% production hotfixes** with enforced code review + automated CI/CD checks
-- 🔐 **Central OAuth 2.0 / JWT auth server** in NestJS — Redis token revocation + asymmetric signing, used by 10+ apps
-- 📦 **~60 internal libraries & apps** maintained in a monorepo so product teams could extend functionality themselves
-- 🍽️ **Shipped platforms** for golf booking, POS, retail, events, food & beverage and kitchen-display systems
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-</details>
+* SQL Server
+* Stored Procedures
+* Database Design
+* Query Optimization
+* Redis
 
----
+### DevOps
 
-## 🎓 Education
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
 
-**Master's in Information Technology** · IAUCTB · 2018
+* Docker
+* Kubernetes
+* CI/CD
+* GitLab CI
+* Agile / Scrum
+* Code Review
+* Automated Quality Checks
 
----
+### AI / Machine Learning
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sinayassari"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sina.yassari@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <sub>⭐ If any of my repos helped you, a star is always appreciated!</sub>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?st)
