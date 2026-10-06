@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sina Yassari
 
-### Senior Software Engineer · AI/ML Engineer · Full-Stack Architect
+### Senior Software Engineer · AI/ML Engineer · Software Architect
 
 I’m a **Senior Software Engineer with 10+ years of experience** building scalable, secure, and maintainable software across **.NET, Angular, NestJS, TypeScript, microservices, and cloud-native architectures**.
 
